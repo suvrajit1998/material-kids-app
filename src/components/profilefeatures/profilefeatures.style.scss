@@ -1,0 +1,23 @@
+.profileFeatures {
+  position: relative;
+  top: -90px;
+  width: 95%;
+  height: 100%;
+  margin: 0 auto;
+
+  .developer {
+    text-align: center;
+    height: 100%;
+
+    // .avater {
+    //   height: 160px;
+    // }
+
+    .avater-image {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      margin-top: -80px;
+    }
+  }
+}

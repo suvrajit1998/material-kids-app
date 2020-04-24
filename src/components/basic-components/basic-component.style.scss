@@ -1,0 +1,24 @@
+.basic-components {
+  width: 95%;
+  margin: 0 auto;
+  margin-top: 2rem;
+}
+
+.jass {
+  height: 560px;
+  width: 60%;
+  position: relative;
+
+  .jass-image {
+    background: url('../../assets/laptop-basics.e342eac6.png');
+    height: 100%;
+    width: 120%;
+    background-size: cover;
+    position: absolute;
+    z-index: 100;
+    top: 0;
+
+    overflow: hidden;
+    // left: -100px;
+  }
+}

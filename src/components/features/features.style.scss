@@ -1,0 +1,36 @@
+.features {
+  position: relative;
+  top: -140px;
+  width: 95%;
+  height: 100%;
+  margin: 0 auto;
+
+  .primary-title {
+    margin: 0 auto;
+    text-align: center;
+    color: #7e7d7d;
+    line-height: 35px;
+    padding: 30px;
+  }
+
+  .icon {
+    font-size: 4rem;
+  }
+
+  .grid {
+    // width: 31%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .titlebody {
+    text-align: center;
+    color: #808080;
+    margin-top: 20px;
+    font-size: 1rem;
+    padding: 1rem;
+  }
+}
